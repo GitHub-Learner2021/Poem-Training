@@ -1,6 +1,7 @@
 # This poem was written on November 19, 2022
 ##May add other seasons as they come
 
+
 Winter has gone
 The cold has defrost
 Though it does not snow in Wellington
@@ -11,3 +12,12 @@ Spring is here
 And the fresh breeze is near
 Bugs and critters arise
 And an open window and light invites them to arrive
+
+
+
+branch ##trying the addition of Summer
+
+Summer has yet to come
+But if the past years were to be believed
+Autumn colours like yellow leaves 
+Will soon be seen
